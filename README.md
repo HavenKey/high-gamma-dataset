@@ -9,6 +9,9 @@ Download the files from this repositoy, subfolder data
 https://web.gin.g-node.org/robintibor/high-gamma-dataset/src/master/data
  
 
+### Trained models
+Parameters for trained deep and shallow models from https://github.com/robintibor/braindecode for each subject are under 
+https://web.gin.g-node.org/robintibor/high-gamma-dataset/src/master/data/trained-parameters
 
 ## Loading this dataset
 
